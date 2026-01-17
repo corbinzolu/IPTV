@@ -1,0 +1,534 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml"
+# Last Update: 2026-01-17
+
+
+
+# -- TV ITALIA --
+#EXTINF:-1 tvg-name="Rai 1" tvg-chno="1" tvg-id="Rai1.it" group-title="TV ITALIA" tvg-logo="https://iptv-epg.org/logos/Italy/Rai1.it.png",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai 2" tvg-chno="2" tvg-id="Rai2.it" group-title="TV ITALIA" tvg-logo="https://iptv-epg.org/logos/Italy/Rai2.it.png",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3" tvg-chno="3" tvg-id="Rai3.it" group-title="TV ITALIA" tvg-logo="https://iptv-epg.org/logos/Italy/Rai3.it.png",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+
+#EXTINF:-1 tvg-name="Rete 4" tvg-chno="4" tvg-id="Rete4.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/rete4.png",Rete 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hd.mpd
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-chno="5" tvg-id="Canale5.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/canale5.png",Canale 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
+
+#EXTINF:-1 tvg-name="Italia 1" tvg-chno="6" tvg-id="Italia1.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/italia1.png",Italia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="LA7" tvg-chno="7" tvg-id="La7.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/la7.jpg",LA7
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/stvp-ITBD1500002NL
+
+#EXTINF:-1 tvg-name="TV8" tvg-chno="8" tvg-id="TV8.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/otto2.jpg",TV8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-name="NOVE" tvg-chno="9" tvg-id="NOVE.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/nove.jpg",NOVE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-name="Mediaset 20" tvg-chno="20" tvg-id="Mediaset20.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/20.jpg",20 Mediaset
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Rai 4" tvg-chno="21" tvg-id="Rai4.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/rai4.jpg",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Iris" tvg-chno="22" tvg-id="Iris.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/iris.jpg",Iris
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Rai 5" tvg-chno="23" tvg-id="Rai5.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/rai5.jpg",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai Movie" tvg-chno="24" tvg-id="RaiMovie.it" group-title="TV ITALIA"tvg-logo="http://davidefulgione.it/loghi/raimovie.jpg",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai Premium" tvg-chno="25" tvg-id="RaiPremium.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/raipremium.jpg",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Cielo" tvg-chno="26" tvg-id="cielo.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/cielo.jpg",Cielo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-name="TwentySeven 27" tvg-chno="27" tvg-id="Mediaset27Twentyseven.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/27.jpg",Twenty Seven 27
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="TV2000" tvg-chno="28" tvg-id="tv2000.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/tv2000.jpg",TV2000
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-name="La7D" tvg-chno="29" tvg-id="La7D.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/7.jpg",LA7D
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+
+#EXTINF:-1 tvg-name="La 5" tvg-chno="30" tvg-id="La5.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/la5.jpg",La 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Real Time" tvg-chno="31" tvg-id="RealTime.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/real.jpg",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-name="QVC" tvg-chno="32" tvg-id="QVC.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/qvc.jpg",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-chno="33" tvg-id="FoodNetwork.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/food.jpg",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:-1 tvg-name="Cine34" tvg-chno="34" tvg-id="Cine34.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/cine34.jpg",Cine34
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Giallo" tvg-chno="38" tvg-id="Giallo.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/giallo.jpg",Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:-1 tvg-name="Top Crime" tvg-chno="39" tvg-id="TopCrime.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/topcrime.jpg",Top Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Italia 2" tvg-chno="49" tvg-id="Italia2.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/italia2.png",Italia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="DMAX" tvg-chno="52" tvg-id="DMAX.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/dmax.png",DMAX
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-name="Mediaset Extra" tvg-chno="55" tvg-id="MediasetExtra.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/mediasetextra.jpg",Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="HGTV" tvg-chno="56" tvg-id="HGTV.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/hgtv.jpg",HGTV - Home&Garden
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+
+#EXTINF:-1 tvg-name="ALMA TV" tvg-chno="65" tvg-id="AlmaTV.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/almatv.png",ALMA TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai Radio 2 Visual" tvg-chno="202" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/radio2.jpg",Rai Radio 2 Visual
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="ByoBlu" tvg-chno="262" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/by.jpg",Byoblu
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Padre Pio TV" tvg-chno="145" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/pio.jpg",Padre Pio TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="7 Gold" tvg-chno="175" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/7gold.jpg",7 GOLD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
+
+
+
+# --- TV SVIZZERA ---
+#EXTINF:-1 tvg-name="RSI LA1" tvg-chno="301" tvg-id="RSILA1.it" group-title="TV SVIZZERA" tvg-logo="https://iptv-epg.org/logos/Italy/RSILA1.it.png",RSI LA1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
+
+#EXTINF:-1 tvg-name="RSI LA2" tvg-chno="302" tvg-id="RSILA2.it" group-title="TV SVIZZERA" tvg-logo="https://iptv-epg.org/logos/Italy/RSILA2.it.png",RSI LA2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
+
+#EXTINF:-1 tvg-name="TeleTicino" tvg-chno="303" group-title="TV SVIZZERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TeleTicino-2012.png/revision/latest?cb=20130512144208",TeleTicino
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+
+#EXTINF:-1 tvg-name="TVO CH" tvg-chno="304" group-title="TV SVIZZERA" tvg-logo="http://davidefulgione.it/loghi/nologo.jpg",TVO CH
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+
+#EXTINF:-1 tvg-name="TVM 3 CH" tvg-chno="305" group-title="TV SVIZZERA" tvg-logo="http://davidefulgione.it/loghi/nologo.jpg",TVM 3 CH
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://edge16.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+
+
+
+# --- NEWS ---
+#EXTINF:-1 tvg-name="Rai News" tvg-chno="48" tvg-id="RaiNews.it" group-title="NEWS" tvg-logo="http://davidefulgione.it/loghi/rainews.png",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Sky TG24" tvg-chno="50" tvg-id="SkyTG24.it" group-title="NEWS" tvg-logo="http://davidefulgione.it/loghi/sky.png",Sky TG24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-name="TGCOM 24" tvg-chno="51" tvg-id="TgCom24.it" group-title="NEWS" tvg-logo="http://davidefulgione.it/loghi/tgcom.jpg",TGCOM 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+
+
+
+# --- CULTURA ---
+#EXTINF:-1 tvg-name="Focus" tvg-chno="35" tvg-id="Focus.it" group-title="CULTURA" tvg-logo="http://davidefulgione.it/loghi/focus.jpg",FOCUS
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Rai Storia" tvg-chno="54" tvg-id="RaiStoria.it" group-title="CULTURA" tvg-logo="http://davidefulgione.it/loghi/raistoria.png",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai Scuola" tvg-chno="57" tvg-id="RaiScuola.it" group-title="CULTURA" tvg-logo="http://davidefulgione.it/loghi/raiscuola.png",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-chno="910" tvg-id="Discovery" group-title="CULTURA" tvg-logo="http://davidefulgione.it/loghi/discovery.jpg",DISCOVERY CHANNEL
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+#EXTINF:-1 tvg-name="UniNettuno University TV" tvg-chno="911" tvg-id="UniNettunoUniversityTV.it" group-title="CULTURA" tvg-logo="https://i.imgur.com/BOGMeio.png",UniNettuno University TV Ⓖ
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+
+
+
+# --- MUSICA TV ---
+#EXTINF:-1 tvg-name="RTL 102.5" tvg-chno="36" tvg-id="RTL1025.it" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/rtl.jpg",RTL 102.5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-name="Radio 105 TV" tvg-chno="66" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/radio105.png",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="R101 TV" tvg-chno="67" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/radio101.png",R101 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="BOM CHANNEL" tvg-chno="68" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/boom.jpg",BOM CHANNEL
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Deejay TV" tvg-chno="69" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/dj.jpg",Deejay TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RadioItaliaTV" tvg-chno="70" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/radioitalia.png",RadioItaliaTV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-name="Kiss Kiss Tv Napoli" tvg-chno="76" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/nologo.jpg",Kiss Kiss Tv Napoli
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RADIO KISS KISS TV" tvg-chno="158" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/kisskiss.png",RADIO KISS KISS TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTL 102.5 News" tvg-chno="233" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/rtl.jpg",RTL 102.5 News
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:-1 tvg-name="VIRGIN RADIO" tvg-chno="786" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/virgin.png",VIRGIN RADIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="RADIOFRECCIA" tvg-chno="258" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/radiofreccia.png",RADIOFRECCIA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
+#EXTINF:-1 tvg-name="RDS Social TV" tvg-chno="265" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/rds.png",RDS Social TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-name="RADIO ZETA" tvg-chno="266" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/zeta.png",RADIO ZETA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-name="Radio Capital TV" tvg-chno="268" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/capital.jpg",Radio Capital TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="M2O TV" tvg-chno="269" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/m2o.png",M2O TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Montecarlo TV" tvg-chno="270" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/montecarlo.jpg",Radio Montecarlo TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Radio 24 TV" tvg-chno="271" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/radio24.jpg",Radio 24 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+
+#EXTINF:-1 tvg-name="RTL BEST" tvg-chno="272" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/rtl.jpg",RTL BEST
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+
+#EXTINF:-1 tvg-name="RTL DISCO" tvg-chno="273" group-title="MUSICA TV" tvg-logo="http://davidefulgione.it/loghi/rtl.jpg",RTL DISCO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+
+
+
+# --- SPORT ---
+#EXTINF:-1 tvg-name="Rai Sport + HD" tvg-chno="58" tvg-id="RAISport.it" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/raisport.png",Rai Sport + HD
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Motor Trend" tvg-chno="59" tvg-id="MotorTrend.it" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/motor.png",Motor Trend
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-name="Sportitalia" tvg-chno="60" tvg-id="Sportitalia.it" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/sportitalia.png",Sportitalia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SOLOCALCIO" tvg-chno="61" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/solocalcio.jpg",SOLOCALCIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://italiansport-solocalcio-samsung.amagi.tv/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Donna Sport TV" tvg-chno="62" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/donnatv.png",Donna Sport TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SuperTennis" tvg-chno="64" tvg-id="SuperTennis.it" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/supertennis.png",SuperTennis
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-name="F1 TV" tvg-chno="341" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/f1.jpg",F1 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="Inter TV" tvg-chno="342" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/inter.jpg",Inter TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-name="Inter 24/7" tvg-chno="343" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/inter.jpg",Inter 24/7
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio TV Serie A" tvg-chno="344" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/rta.jpg",Radio TV Serie A
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+
+#EXTINF:-1 tvg-name="MOVE Sport" tvg-chno="345" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/move.jpg",MOVE Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://d3i87cms5m5yjq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-75fzs486ayykg/mov.m3u8
+
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-chno="346" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/tennis.jpg",Tennis Channel
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg01444-tennischannelth-tennischde-samsungch-jp1l8.amagi.tv/playlist/amg01444-tennischannelth-tennischde-samsungch/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tennis+" tvg-chno="347" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/tennis.jpg",Tennis +
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Plus TV Sport" tvg-chno="348" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/plus.jpg",Plus TV SPort
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-name="ACI SPort" tvg-chno="349" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/aci.jpg",ACI Sport
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#EXTINF:-1 tvg-name="FF MOTOR SPORT" tvg-chno="350" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/motorsport.jpg",FF MOTOR SPORT
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://host1.momentotv.live:28443/cmaf/ffmotorsport/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Primavera TV" tvg-chno="351" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/primavera.jpg",PRIMAVERA TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Bianconera" tvg-chno="352" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/nologo.jpg",RADIO BIANCONERA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/stvp-ITBD2300001MT
+
+#EXTINF:-1 tvg-name="Plus TV Motori" tvg-chno="353" tvg-logo="http://odmsto.com/uploads/tv_image/sm/plus-tv-motori.jpg" group-title="SPORT",Plus+ Tv Motori
+https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Plus Tv Sport" tvg-chno="354" tvg-logo="http://odmsto.com/uploads/tv_image/sm/plus-tv-sport.png" group-title="SPORT",Plus+ Tv Sport
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-name="BIKE" tvg-chno="355" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/bike.jpg",BIKE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+" tvg-chno="356" group-title="SPORT" tvg-logo="http://davidefulgione.it/loghi/fifa.jpg",FIFA+
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+
+
+
+# --- CARTOON ---
+#EXTINF:-1 tvg-name="Boing" tvg-chno="40" tvg-id="Boing.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/boing.jpg",Boing
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="K2" tvg-chno="41" tvg-id="K2.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/k2.jpg",K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-chno="42" tvg-id="RaiGulp.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/raigulp.png",RAI GULP
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Rai Yoyo" tvg-chno="43" tvg-id="RaiYoyo.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/yoyo.jpg",Rai Yoyo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-name="Frisbee" tvg-chno="44" tvg-id="-frisbee-.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/f.jpg",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-chno="46" tvg-id="CARTOONITO.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/cartonito.jpg",Cartoonito
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-name="Super!" tvg-chno="47" tvg-id="Super!.it" group-title="CARTOON" tvg-logo="http://davidefulgione.it/loghi/super.png",Super!
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+
+
+# --- PLUTO TV ---
+#EXTINF:-1 tvg-name="Pluto TV Anime" tvg-chno="321" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",Pluto TV Anime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919
+
+#EXTINF:-1 tvg-name="Pluto TV Commedia" tvg-chno="322" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV COMMEDIA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/stvp-ITBC3000002WL
+
+#EXTINF:-1 tvg-name="Pluto TV FILM" tvg-chno="323" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV FILM
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Pluto TV Azione" tvg-chno="324" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV AZIONE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacgroup-title="PLUTO TV" om&channel_id=channel
+
+#EXTINF:-1 tvg-name="" tvg-chno="325" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV CINEMA ITALIANO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="" tvg-chno="326" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV TOTO'
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="" tvg-chno="327" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV ROMANTICI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="" tvg-chno="328" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV DRAMMATICO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="" tvg-chno="329" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO SERIE TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="" tvg-chno="330" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO THRILLER
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="" tvg-chno="331" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO SUPER STAR
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-name="" tvg-chno="332" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV CUCINA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="333" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV NATURA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="334" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV REAL LIFE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="335" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV REALITY
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-61925f874b1ec000075e700a.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="336" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV SCHERZI E RISATE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="337" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV VIAGGI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="338" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV EROS
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="339" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV HORROR
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+
+
+
+# --- RAKUTEN TV ---
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN ROMANZI
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN COMMEDIA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN FAMILY
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN FANTASCIENZA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN TV AZIONE
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 group-title="RAKUTEN TV" tvg-logo="http://davidefulgione.it/loghi/rakuten.jpg",RAKUTEN TV DRAMMA
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/stvp-IT2600005ZN
+
+
+
+# --- ESTERO ---
+#EXTINF:-1 tvg-name="Rai 1 Estero" tvg-chno="901" tvg-id="Rai1.it" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/rai1.jpg",RAI 1 Estero
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+
+#EXTINF:-1 tvg-name="Rai 2 Estero" tvg-chno="902" tvg-id="Rai2.it" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/rai2.jpg",RAI 2 Estero
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+
+#EXTINF:-1 tvg-name="Rai 3 Estero" tvg-chno="903" tvg-id="Rai3.it" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/rai3.png",RAI 3 Estero
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="904" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/raiworld.jpg",RAI WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="905" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/bcc.jpg",BCC EARTH
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthitaly-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-chno="906" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/nologo.jpg",BIG STORIES
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://jmp2.uk/stvp-ITBC35000016T
+
+#EXTINF:-1 tvg-name="Rai Italia" tvg-chno="907" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/raiitalia.jpg",Rai Italia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
