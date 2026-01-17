@@ -192,7 +192,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-chno="910" tvg-id="Discovery" group-title="CULTURA" tvg-logo="http://davidefulgione.it/loghi/discovery.jpg",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-name="Discovery" tvg-chno="910" tvg-id="Discovery" group-title="CULTURA" tvg-logo="http://davidefulgione.it/loghi/discovery.jpg",Discovery Channel
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
@@ -531,4 +531,5 @@ https://jmp2.uk/stvp-ITBC35000016T
 
 #EXTINF:-1 tvg-name="Rai Italia" tvg-chno="907" group-title="ESTERO" tvg-logo="http://davidefulgione.it/loghi/raiitalia.jpg",Rai Italia
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
