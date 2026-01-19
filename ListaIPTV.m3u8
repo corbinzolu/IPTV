@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml"
-# Last Update: 2026-01-17
+# Last Update: 2026-01-19
 
 
 
@@ -39,6 +39,9 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-name="NOVE" tvg-chno="9" tvg-id="NOVE.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/nove.jpg",NOVE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-name="Videlina" tvg-chno="10" tvg-id="Videolina" tvg-chno="819" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/videolina.png" group-title="TV ITALIA",Videolina
+https://streamcdng8-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mediaset 20" tvg-chno="20" tvg-id="Mediaset20.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/20.jpg",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -533,6 +536,7 @@ https://jmp2.uk/stvp-ITBC35000016T
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
