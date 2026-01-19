@@ -43,6 +43,9 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Videlina" tvg-chno="10" tvg-id="Videolina" group-title="TV ITALIA" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/videolina.png",Videolina
 https://streamcdng8-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Sardegna 1" tvg-chno="11" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="TV ITALIA",Sardegna 1
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Mediaset 20" tvg-chno="20" tvg-id="Mediaset20.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/20.jpg",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
@@ -536,6 +539,7 @@ https://jmp2.uk/stvp-ITBC35000016T
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
