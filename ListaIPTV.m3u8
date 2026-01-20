@@ -208,6 +208,8 @@ https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="UniNettuno University TV" tvg-chno="911" tvg-id="UniNettunoUniversityTV.it" group-title="CULTURA" tvg-logo="https://i.imgur.com/BOGMeio.png",UniNettuno University TV Ⓖ
 https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Travel TV" tvg-chno="912" tvg-id="Travel TV" group-title="CULTURA" tvg-logo="https://camo.githubusercontent.com/2dbf28c3b9721f4e4f2863afa45a81baeaa51c771a3240c2f09d103e7965ec2f/68747470733a2f2f692e696d6775722e636f6d2f61584155794c4e2e706e67",Travel TV
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 
 
 # --- MUSICA TV ---
@@ -376,6 +378,8 @@ https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-name="EQUtv" tvg-chno="913" group-title="SPORT" tvg-logo="https://camo.githubusercontent.com/195add3ec8d0130fc3f0b0171a764a8192af96a0341b71aaceae9e697fc2fc28/68747470733a2f2f692e696d6775722e636f6d2f783957647a37682e706e67",EQUtv
+https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 
 
 # --- CARTOON ---
@@ -542,6 +546,7 @@ https://jmp2.uk/stvp-ITBC35000016T
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
