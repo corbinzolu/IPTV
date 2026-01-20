@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml"
-# Last Update: 2026-01-19
+# Last Update: 2026-01-20
 
 
 
@@ -45,6 +45,9 @@ https://streamcdng8-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videoli
 
 #EXTINF:-1 tvg-name="Sardegna 1" tvg-chno="11" tvg-logo="https://i.imgur.com/YNEW2h2.png" group-title="TV ITALIA",Sardegna 1
 https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tele Costa Smeralda" tvg-chno="12" tvg-logo="https://camo.githubusercontent.com/1abe8feacad953c7a69d0e0eef6a9025aea49adb1213ff851338e03dc4c63aed/68747470733a2f2f692e696d6775722e636f6d2f514c716b6273732e706e67" group-title="TV ITALIA",Tele Costa Smeralda
+https://streamcdng7-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mediaset 20" tvg-chno="20" tvg-id="Mediaset20.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/20.jpg",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -539,6 +542,7 @@ https://jmp2.uk/stvp-ITBC35000016T
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+
 
 
 
