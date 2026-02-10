@@ -208,7 +208,7 @@ https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 
 #EXTINF:-1 tvg-name="TF1 Series Films (FR)" tvg-chno="" tvg-id="TF1 Series Films (FR)" group-title="TV FRANCE" tvg-logo="https://i.imgur.com/4CJIDKQ.png",TF1 Series Films (FR)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-dash/hd1.mpd
 
 #EXTINF:-1 tvg-name="TFX (FR)" tvg-chno="" tvg-id="TFX (FR)" group-title="TV FRANCE" tvg-logo="https://i.imgur.com/d91GcVf.png",TFX (FR)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
