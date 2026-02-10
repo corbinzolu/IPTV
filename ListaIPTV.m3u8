@@ -51,7 +51,7 @@ https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/p
 #EXTINF:-1 tvg-name="Tele Costa Smeralda" tvg-chno="12" tvg-logo="https://camo.githubusercontent.com/1abe8feacad953c7a69d0e0eef6a9025aea49adb1213ff851338e03dc4c63aed/68747470733a2f2f692e696d6775722e636f6d2f514c716b6273732e706e67" group-title="TV ITALIA",Tele Costa Smeralda
 https://streamcdng7-7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
 
-#EXTINF:20 tvg-name="Mediaset 20" tvg-chno="20" tvg-id="Mediaset20.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/20.jpg",20 Mediaset
+#EXTINF:-1 tvg-name="Mediaset 20" tvg-chno="20" tvg-id="Mediaset20.it" group-title="TV ITALIA" tvg-logo="http://davidefulgione.it/loghi/20.jpg",20 Mediaset
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
@@ -774,3 +774,4 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Discovery Turbo USA" tvg-chno="" group-title="TV USA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",Discovery Turbo USA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d
+
