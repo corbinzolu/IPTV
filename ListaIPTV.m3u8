@@ -226,7 +226,7 @@ https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
 
-#EXTINF:-1 tvg-name="France 4" tvg-chno="" tvg-id="France4" group-title="TV FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France4
+#EXTINF:-1 tvg-name="France 4" tvg-chno="" tvg-id="France4" group-title="TV FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",France 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 
@@ -774,4 +774,5 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Discovery Turbo USA" tvg-chno="" group-title="TV USA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",Discovery Turbo USA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d
+
 
