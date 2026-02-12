@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-it.xml"
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-fr.xml"
-# Last Update: 2026-02-11
+# Last Update: 2026-02-12
 
 
 
@@ -587,63 +587,67 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacgroup-title="PLUTO TV" om&channel_id=channel
 
-#EXTINF:-1 tvg-name="" tvg-chno="325" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV CINEMA ITALIANO
+#EXTINF:-1 tvg-name="Pluto TV Cinema Italiano" tvg-chno="325" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV CINEMA ITALIANO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="" tvg-chno="326" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV TOTO'
+#EXTINF:-1 tvg-name="Pluto Tv Toto'" tvg-chno="326" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV TOTO'
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="" tvg-chno="327" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV ROMANTICI
+#EXTINF:-1 tvg-name="Pluto TV Romantici" tvg-chno="327" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV ROMANTICI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="" tvg-chno="328" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV DRAMMATICO
+#EXTINF:-1 tvg-name="Pluto TV Drammatico" tvg-chno="328" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV DRAMMATICO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedP artner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="" tvg-chno="329" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO SERIE TV
+#EXTINF:-1 tvg-name="Pluto TV Serie" tvg-chno="329" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO SERIE TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="" tvg-chno="330" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO THRILLER
+#EXTINF:-1 tvg-name="Pluto TV Cobra11" tvg-chno="330" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV COBRA 11
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/625e6cc905e09f00073addee/3321280/playlist.m3u8?sid=dc3d109e-081b-11f1-bc42-92a34b471d7b&deviceId=2dd6a726-1b2f-473a-aade-17e13764a7f7&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhlMGMwZGEwLTA3NTctNGY3OS05Y2I1LWNhMjc4NWY1YzQ2NSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkYzNkMTA5ZS0wODFiLTExZjEtYmM0Mi05MmEzNGI0NzFkN2IiLCJjbGllbnRJUCI6Ijg0LjIyMC4xODEuMTgxIiwiY2l0eSI6IlNpbWF4aXMiLCJwb3N0YWxDb2RlIjoiMDkwODgiLCJjb3VudHJ5IjoiSVQiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IklUIiwiZGV2aWNlTGF0IjozOS45Mzk5OTg2MjY3MDg5ODQsImRldmljZUxvbiI6OC43MjAwMDAyNjcwMjg4MDksInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjE0NC4wLjAiLCJkZXZpY2VNYWtlIjoiZWRnZS1jaHJvbWl1bSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjE5LjAtN2E2YzExNTYzMWQ5NDVjNGY3MzI3ZGUzZTAzYjdjNDc0YjY5MjY1NyIsImNsaWVudElEIjoiMmRkNmE3MjYtMWIyZi00NzNhLWFhZGUtMTdlMTM3NjRhN2Y3IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkV1cm9wZS9Sb21lIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJtdWx0aVBvZEFkcyI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZyI6eyJkZW11eGVkQXVkaW8iOiJqaXQifSwic3RpdGNoZXJIbHNOZ1ZsbCI6eyJlbmFibGVkIjp0cnVlfSwic3RpdGNoZXJIbHNOZ1ZvZCI6eyJlbmFibGVkIjp0cnVlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMmRkNmE3MjYtMWIyZi00NzNhLWFhZGUtMTdlMTM3NjRhN2Y3IiwiZndWY0lEMkNvcHBhIjoiMmRkNmE3MjYtMWIyZi00NzNhLWFhZGUtMTdlMTM3NjRhN2Y3IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIyZGQ2YTcyNi0xYjJmLTQ3M2EtYWFkZS0xN2UxMzc2NGE3ZjciLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDA5LDEwMDE1LDEwMDIwLDEwMDIxLDEwMDAwLDEwMDEzLDEwMDE0LDEwMDE2LDEwMDIzIn19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6SVQ6TW1Sa05tRTNNall0TVdJeVppMDBOek5oTFdGaFpHVXRNVGRsTVRNM05qUmhOMlkzIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTc3MDk5MTUxNywiaWF0IjoxNzcwOTA1MTE3LCJqdGkiOiJiOTYxYzg2NC0zODEwLTQ3YzktODA2NS0zNDRlYzU2MDJmNzIifQ.ZUhsB93LQZPc64kzNtA3hN0FLPQydFtSgzGjF80OiR0&CMCD=mtp%3D44500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22935f1cd6-e5c0-4d1e-9194-e09febe6fb70%22
+
+#EXTINF:-1 tvg-name="Pluto TV Thriller" tvg-chno="331" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO THRILLER
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-name="" tvg-chno="331" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO SUPER STAR
+#EXTINF:-1 tvg-name="Pluto TV Superstar" tvg-chno="332" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO SUPER STAR
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-name="" tvg-chno="332" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV CUCINA
+#EXTINF:-1 tvg-name="Pluto TV Cucina" tvg-chno="333" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV CUCINA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="333" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV NATURA
+#EXTINF:-1 tvg-name="Pòuto TV Natura" tvg-chno="334" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV NATURA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="334" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV REAL LIFE
+#EXTINF:-1 tvg-name="" tvg-chno="335" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV REAL LIFE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="335" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV REALITY
+#EXTINF:-1 tvg-name="" tvg-chno="336" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV REALITY
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-61925f874b1ec000075e700a.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="336" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV SCHERZI E RISATE
+#EXTINF:-1 tvg-name="" tvg-chno="337" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV SCHERZI E RISATE
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="337" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV VIAGGI
+#EXTINF:-1 tvg-name="" tvg-chno="338" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV VIAGGI
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="338" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV EROS
+#EXTINF:-1 tvg-name="" tvg-chno="339" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV EROS
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-66335489307fa300082bd6e4.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-chno="339" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV HORROR
+#EXTINF:-1 tvg-name="" tvg-chno="340" group-title="PLUTO TV" tvg-logo="http://davidefulgione.it/loghi/pluto.png",PLUTO TV HORROR
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
 
@@ -778,6 +782,7 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-name="Discovery Turbo USA" tvg-chno="" group-title="TV USA" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png",Discovery Turbo USA
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6400f731d200410008f9b339/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f6c6f3a-05ab-4e92-bd57-fc8b312f109d
+
 
 
 
