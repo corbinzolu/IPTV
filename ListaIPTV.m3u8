@@ -198,11 +198,11 @@ https://nuovatv.net:8443/tv2/stream.m3u8
 
 # --- TV SVIZZERA ---
 #EXTINF:-1 tvg-name="RSI LA1" tvg-chno="301" tvg-id="RSILA1.it" group-title="TV SVIZZERA" tvg-logo="https://iptv-epg.org/logos/Italy/RSILA1.it.png",RSI LA1
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0"
 https://netplus.zappr.stream/rsila1hd.m3u8
 
 #EXTINF:-1 tvg-name="RSI LA2" tvg-chno="302" tvg-id="RSILA2.it" group-title="TV SVIZZERA" tvg-logo="https://iptv-epg.org/logos/Italy/RSILA2.it.png",RSI LA2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0"
 https://netplus.zappr.stream/rsila2hd.m3u8
 
 #EXTINF:-1 tvg-name="TeleTicino" tvg-chno="303" group-title="TV SVIZZERA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/TeleTicino-2012.png/revision/latest?cb=20130512144208",TeleTicino
